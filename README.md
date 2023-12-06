@@ -8,7 +8,7 @@
 ### 1. Google 硬碟（Google Drive）
 
 - 使用 Google Colab 上的 Jupyter Notebook，提供兩種選擇。
-  - **insanely_fast_whisper_colab.ipynb**：這是最快的轉譯方式，適合追求速度的使用者。
+  - [**insanely_fast_whisper_colab.ipynb**](https://drive.google.com/file/d/1D381cTluvVbzsHAGFqEbm4yhkHqSOfQi/view?usp=sharing)：這是最快的轉譯方式，適合追求速度的使用者。
 
 ### 2. 本地端計算
 
