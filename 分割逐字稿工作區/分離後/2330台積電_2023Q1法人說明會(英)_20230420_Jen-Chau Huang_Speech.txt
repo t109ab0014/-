@@ -1,0 +1,102 @@
+：Jen-Chau Huang - VP & CFO
+：Thank you, Jeff. Good afternoon, everyone. Thank you for joining us today. My presentation will start with the financial highlights for the first quarter 2023. After that, I will provide the guidance for the second quarter 2023.
+：First quarter revenue decreased 18.7% sequentially in NT or 16.1% in U.S. dollar as our first quarter business was impacted by weakening macroeconomic conditions and softening end market demand, which led customers to adjust their demand accordingly. Gross margin decreased 5.9 percentage points sequentially to 56.3%, mainly reflecting lower capacity utilization and a less favorable foreign exchange rate, partially offset by a more stringent cost controls.
+：Total operating expenses accounted for 10.8% of net revenue, which is lower than the 12% implied in our first quarter guidance mainly due to stringent expense control and lower employee profit sharing. Operating margin was 45.5%, down 6.5 percentage points from the previous quarter.
+：Overall, our first quarter EPS was TWD 7.98 and ROE was 27.5%. Now let's move on to revenue by technology. 5-nanometer process technology contributed 31% of wafer revenue in the first quarter, while 7-nanometer accounted for 20%. Advanced Technologies, defined as 7-nanometer and below, accounted for 51% of wafer revenue.
+：Moving on to revenue contribution by platform. HPC declined 14% quarter-over-quarter and accounted for 44% of our first quarter revenue. Smartphone declined 27% to account for 34%. IoT declined 19% to account for 9%. Automotive increased 5% to account for 7% and DCE decreased 5% to account for 2%.
+：Moving on to the balance sheet. We ended the first quarter with cash and marketable securities of TWD 1.59 trillion or USD 52 billion. On the liability side, current liabilities decreased by TWD 71 billion, mainly due to the decrease of TWD 65 billion in accounts payable. On financial ratio, accounts receivable turnover days decreased 2 days to 34 days, while days of inventory increased 3 days to 96 days.
+：Regarding cash flow and CapEx. During the first quarter, we generated about TWD 385 billion in cash from operations, spent TWD 302 billion in CapEx and distributed TWD 71 billion for second quarter 2022 cash dividend. Overall, our cash balance increased CNY 42 billion to CNY 1.39 trillion at the end of the quarter. In U.S. dollar terms, our first quarter capital expenditures totaled $9.94 billion. I have finished my financial summary.
+：Now let's turn to our current quarter guidance. We expect our business in the second quarter to continue to be impacted by customers' further inventory adjustment. Based on the current business outlook, we expect our second quarter revenue to be between to USD 15.2 billion and USD 16 billion, which represents a 6.7% sequential decline at the midpoint. Based on the exchange rate assumption of USD 1 to TWD 30.4, gross margin is expected to be between 52% and 54%, operating margin between 39.5% and 41.5%. This concludes my financial presentation.
+：Now let me turn to our key messages. I will start by making some comments on our first quarter '23 and second quarter '23 profitability. Compared to fourth quarter, our first quarter gross margin decreased by 590 basis points sequentially to 56.3% primarily due to a lower capacity utilization. Compared to our first quarter guidance, our actual gross margin exceeded the high end of the range provided 3 months ago, by 80 basis points, mainly due to more stringent cost control efforts.
+：We have just guided our second quarter gross margin to be 53% at the midpoint mainly due to a lower capacity utilization rate and higher electricity costs in Taiwan. After last year's electricity price increase of 15% in the second half of 2022, TSMC's electricity price in Taiwan has increased by another 17% starting April 1 this year. This is expected to take out 60 basis points from our second quarter gross margin.
+：We expect the impact from higher electricity costs to continue throughout the second half of this year and dilute our full year gross margin by about 50 basis points. In 2023, our gross margin faces challenges from lower capacity utilization due to semiconductor cyclicality, the ramp-up of N3, overseas fab expansion and inflationary costs, including higher utility costs in Taiwan.
+：To manage our profitability in 2023, we will work diligently on internal cost improvement efforts while continuing to sell our value. Excluding the impact of foreign exchange rate, which we have no control over, we continue to forecast a long-term gross margin of 53% and higher is achievable.
+：Next, let me talk about 2023 capital budget. Every year, our CapEx is spent in anticipation of the growth that will follow in future years. As I've stated before, given the near-term uncertainties, we continue to manage our business prudently and tighten up our capital spending where appropriate. That said, our commitment to support customers' structural growth remains unchanged, and our disciplined CapEx and capacity planning remains based on the long-term market demand profile. Thus we expect our 2023 capital budget to be between USD 32 billion and USD 36 billion.
+：With this level of CapEx spending in 2023, we reiterate that TSMC remains committed to a sustainable and steadily increasing cash dividend on both an annual and quarterly basis. We will continue to work closely with our customers to plan our long-term capacity and invest in leading edge, and specialty technologies to support their growth while delivering profitable growth to our shareholders.
+：Now let me turn the microphone over to C.C.
+：Jen-Chau Huang - VP & CFO
+：Okay, Bruce. This is Wendell. Let me make a few comments on the dividends. TSMC is committed to a sustainable and steadily increasing dividends. During the periods of high capital intensity or high capital investment, more of the focus is on sustainable. But when we start to capture and harvest the capital investment spend, the commitment is -- or the focus is more towards steadily increasing.
+：The 70% ratio is a guidelines. Let me give you an example. If in the particular year, the free cash flow is much lower because of higher CapEx or lower profit than the -- to maintain a sustainable dividend, the ratio of free cash flow to be dispersed could be higher. And on the other hand, in a year where free cash flow is particularly high, the ratio can be 70%, but it can be lower because we need to look forward into the year behind that specific year, and to make sure it is sustainable. Okay, does that answer your question?
+：Jen-Chau Huang - VP & CFO
+：Yes. Yes. As I said, the principle is 70%, but it has to be sustainable and steadily increasing.
+：Jen-Chau Huang - VP & CFO
+：Randy, let me answer that. As we stated before, every year, our CapEx is spent for the opportunities in the future years. So although there are short-term cyclicality in the industry, but we believe if the structural long-term demand is there, and the future opportunities is there, and we will continue to invest. That will be the framework that we can provide to you.
+：Jen-Chau Huang - VP & CFO
+：Charlie, this is Wendell. First of all, we don't comment on specific suppliers or customers or competitors. Regarding this year's CapEx when we gave out the CapEx range, $32 billion to $36 billion, we have already started or tightened up our 2023 capital budget.
+：At this moment, we believe this range is appropriate and it's prudent under today's economic environment, that range is still valid. Now for next year, it's too early to talk about next year. But as I just stated, if the CapEx spend this year will be for future years, and CapEx spend next year will be for even future years. So if we see the growth opportunities is there, then we will continue to invest. That's the main policy, the principle that we have.
+：Jen-Chau Huang - VP & CFO
+：Okay, Charlie, let me make a few comments on this one. We are currently in the application process and, therefore, we're not able to comment on specific details. However, we are in close and constant communication with the U.S. government so that we fully understand all the details and provide our feedback and comments to them. At the end, all the decisions that we make will be based on the best interest of TSMC.
+：Operator
+：The next one to ask question, Brett Simpson from Arete Research.
+：Jen-Chau Huang - VP & CFO
+：Okay, Brett. The overseas fab is indeed the cost is higher, at least in the first several years. And we stated last time that some of the components like the construction costs may be as high as 5x. Now the way to mitigate that, first of all, it's -- it represents our global expansion represent a value to the customers, then we will be selling that value as well.
+：And secondly, because of our large base and volume, we'll be able to leverage that big base and volume to lower down the cost. And at the same time, of course, we will need to secure the necessary level of government support.
+：So putting all these efforts together, we will -- our job is to minimize the cost gap and make appropriate return. For the whole company on a combined basis, the 53% and higher gross margin remains our long-term financial goal and is achievable.
+：Jen-Chau Huang - VP & CFO
+：Okay. Brett, let me reply this matter. In Japan, we will -- our total CapEx is about $8 billion, and we expect about 50% to receive from the government. And we will be production -- stop production at the end of next year. So the incentives from the government will be according -- will be based on the progress that we are building our fabs. So that gives you some idea of how much we can receive this year and next year.
+：How do we account for it? Basically, we will be -- that will be accounted for as an offset of depreciation. Okay?
+：Jen-Chau Huang - VP & CFO
+：Okay. Laura, let me start. For the advanced packaging, the back-end services, we think that its growth in next about 5 years will be slightly higher than the corporate average. However, for this year, is -- the revenue will be lower than that of last year because of customer demand.
+：Last year, the revenue accounted for about 7% of our total revenue. This year is somewhere between 6 to 7. So that should give you an idea of the overall packaging.
+：Jen-Chau Huang - VP & CFO
+：Yes, Mehdi, that's a reasonable view.
+：Jen-Chau Huang - VP & CFO
+：Mehdi, I am not going to share with you the peak, where the peak is. But I can tell you from my current 5-year outlook, we are looking at about mid-30s percentage of capital intensity.
+：Jen-Chau Huang - VP & CFO
+：Okay, Charles. The $40 billion asset under construction at the end of last year primarily come from 2 nodes, an N3 node and the N5 node. N3 node, that is because we're ramping up the N3 nodes. And N5, we continue to increase our capacity.
+：Therefore, these 2 add together, you see a big -- a bigger asset under construction at the end of last year. From what I can see going forward, this number will be -- will gradually come down in the next few years.
+：Jen-Chau Huang - VP & CFO
+：Charles, as we said, it's too early to talk about next year. But we also said that if we continue to see the future growth opportunities there, we will continue to invest.
+：Jen-Chau Huang - VP & CFO
+：Charles, as I said, we are in the process of the application, so we're not in a position to disclose any details. I will refrain from sharing more information at this moment.
+：Jen-Chau Huang - VP & CFO
+：謝謝你，傑夫。大家下午好。感謝您今天加入我們。我的演講將從 2023 年第一季度的財務亮點開始。之後，我將提供 2023 年第二季度的指導。
+：第一季度收入按新台幣計算環比下降 18.7%，按美元計算下降 16.1%，因為我們第一季度的業務受到宏觀經濟狀況疲軟和終端市場需求疲軟的影響，導致客戶相應調整需求。毛利率環比下降 5.9 個百分點至 56.3%，主要反映較低的產能利用率和不利的匯率，部分被更嚴格的成本控制所抵消。
+：總運營費用占淨收入的 10.8%，低於我們第一季度指引中隱含的 12%，這主要是由於嚴格的費用控制和較低的員工利潤分享。營業利潤率為 45.5%，環比下降 6.5 個百分點。
+：總體而言，我們第一季度的每股收益為新台幣 7.98 元，淨資產收益率為 27.5%。現在讓我們繼續通過技術獲得收入。 5 納米工藝技術在第一季度貢獻了 31% 的晶圓收入，而 7 納米佔 20%。定義為 7 納米及以下的先進技術佔晶圓收入的 51%。
+：繼續討論平台的收入貢獻。 HPC 環比下降 14%，占我們第一季度收入的 44%。智能手機下降 27% 至 34%。物聯網下降 19%，佔 9%。汽車增長 5% 至 7%，DCE 下降 5% 至 2%。
+：轉到資產負債表。第一季度結束時，我們的現金和有價證券為 1.59 萬億新台幣或 520 億美元。負債方面，流動負債減少新台幣710億元，主要是應付賬款減少新台幣650億元。財務比率方面，應收賬款周轉天數減少2天至34天，而存貨周轉天數增加3天至96天。
+：關於現金流和資本支出。第一季度，我們從運營中產生了約 3,850 億新台幣的現金，支出了 3,020 億新台幣的資本支出，並為 2022 年第二季度的現金股息分配了 710 億新台幣。總體而言，本季度末我們的現金餘額增加了 420 億元人民幣，達到 1.39 萬億元人民幣。以美元計算，我們第一季度的資本支出總額為 99.4 億美元。我已經完成了我的財務摘要。
+：現在讓我們轉向我們當前的季度指南。我們預計我們第二季度的業務將繼續受到客戶進一步庫存調整的影響。根據當前的業務前景，我們預計第二季度收入將在 152 億美元至 160 億美元之間，中值環比下降 6.7%。基於1美元兌30.4新台幣的匯率假設，預計毛利率在52%至54%之間，營業利潤率在39.5%至41.5%之間。我的財務報告到此結束。
+：現在讓我談談我們的關鍵信息。我將首先對我們 23 年第一季度和 23 年第二季度的盈利能力發表一些評論。與第四季度相比，我們第一季度的毛利率環比下降 590 個基點至 56.3%，這主要是由於產能利用率較低。與我們第一季度的指引相比，我們的實際毛利率超過 3 個月前提供的範圍的高端 80 個基點，這主要是由於更嚴格的成本控制措施。
+：我們剛剛將第二季度的毛利率指引為 53% 的中點，這主要是由於台灣較低的產能利用率和較高的電力成本。繼去年2022年下半年電價上漲15%後，今年4月1日起，台積電在台電價再漲17%。預計這將從我們第二季度的毛利率中扣除 60 個基點。
+：我們預計電力成本上漲的影響將持續到今年下半年，並將我們的全年毛利率攤薄約 50 個基點。 2023 年，我們的毛利率面臨半導體週期性導致產能利用率下降、N3 產量增加、海外晶圓廠擴張和通脹成本（包括台灣更高的公用事業成本）的挑戰。
+：為了在 2023 年管理我們的盈利能力，我們將努力改善內部成本，同時繼續推銷我們的價值。剔除我們無法控制的匯率影響，我們繼續預測長期毛利率為 53%，甚至更高。
+：接下來，讓我談談2023年的資本預算。每年，我們的資本支出都用於預期未來幾年的增長。正如我之前所說，鑑於近期的不確定性，我們將繼續謹慎地管理我們的業務，並在適當的時候收緊我們的資本支出。也就是說，我們支持客戶結構性增長的承諾保持不變，我們嚴格的資本支出和產能規劃仍然基於長期市場需求狀況。因此，我們預計 2023 年的資本預算將在 320 億美元至 360 億美元之間。
+：鑑於 2023 年的資本支出水平如此，我們重申，台積電仍致力於在年度和季度基礎上持續穩定地增加現金股息。我們將繼續與客戶密切合作，規劃我們的長期產能並投資於前沿和專業技術，以支持他們的發展，同時為我們的股東帶來盈利增長。
+：現在讓我把話筒交給 C.C.
+：Jen-Chau Huang - VP & CFO
+：好的，布魯斯。這是溫德爾。讓我對股息發表一些評論。台積電致力持續穩定增加股息。在高資本密集度或高資本投資時期，更多的重點是可持續發展。但是，當我們開始捕捉和收穫資本投資支出時，承諾是——或者說重點更傾向於穩步增長。
+：70% 的比率是一個準則。讓我給你舉個例子。如果在特定年份，由於較高的資本支出或較低的利潤，自由現金流量要低得多——為了保持可持續的股息，要分散的自由現金流量的比率可能會更高。另一方面，在自由現金流量特別高的那一年，這個比例可以是70%，但也可以更低，因為我們需要展望特定年份後面的那一年，並確保它是可持續的.好的，這是否回答了您的問題？
+：Jen-Chau Huang - VP & CFO
+：是的。是的。正如我所說，原則是70%，但它必須是可持續的和穩定增長的。
+：Jen-Chau Huang - VP & CFO
+：蘭迪，讓我來回答這個問題。正如我們之前所說，每年，我們的資本支出都用於未來幾年的機會。所以雖然行業有短期的周期性，但是我們相信如果長期的結構性需求是存在的，未來的機會是存在的，我們會繼續投資。這將是我們可以為您提供的框架。
+：Jen-Chau Huang - VP & CFO
+：查理，這是溫德爾。首先，我們不對特定的供應商或客戶或競爭對手發表評論。關於今年的資本支出，當我們給出 320 億美元至 360 億美元的資本支出範圍時，我們已經開始或收緊了 2023 年的資本預算。
+：目前，我們認為這個區間是合適的，在今天的經濟環境下是審慎的，這個區間仍然有效。現在談明年，現在談明年還為時過早。但正如我剛才所說，如果今年的資本支出將用於未來幾年，而明年的資本支出將用於未來幾年。因此，如果我們看到存在增長機會，那麼我們將繼續投資。這是我們的主要政策和原則。
+：Jen-Chau Huang - VP & CFO
+：好吧，查理，讓我對此發表一些評論。我們目前正在申請過程中，因此，我們無法對具體細節發表評論。但是，我們正在與美國政府保持密切和持續的溝通，以便我們充分了解所有細節並向他們提供我們的反饋和意見。最後，我們所做的所有決定都將基於台積電的最大利益。
+：Operator
+：下一個問題是來自 Arete Research 的 Brett Simpson。
+：Jen-Chau Huang - VP & CFO
+：好的，布雷特。海外晶圓廠確實成本較高，至少前幾年是這樣。我們上次說過，某些組件（例如建築成本）可能高達 5 倍。現在緩解這種情況的方法，首先，它代表我們的全球擴張代表了對客戶的價值，然後我們也將出售該價值。
+：其次，由於我們的基礎和數量很大，我們將能夠利用這個大的基礎和數量來降低成本。同時，當然，我們需要獲得必要水平的政府支持。
+：因此，將所有這些努力放在一起，我們將 - 我們的工作是最大限度地減少成本差距並獲得適當的回報。對於整個公司來說，53% 和更高的毛利率仍然是我們的長期財務目標，並且是可以實現的。
+：Jen-Chau Huang - VP & CFO
+：好的。布雷特，讓我來回答這件事。在日本，我們將——我們的資本支出總額約為 80 億美元，我們預計約 50% 將從政府那裡獲得。我們將在明年年底停產。因此，政府的激勵措施將根據 - 將基於我們正在建設我們的晶圓廠的進展。這樣您就可以了解我們今年和明年可以收到多少。
+：我們如何解釋它？基本上，我們將 - 這將被計為折舊的抵消。好的？
+：Jen-Chau Huang - VP & CFO
+：好的。勞拉，讓我開始。對於先進封裝，後端服務，我們認為其未來5年左右的增長將略高於企業平均水平。然而，對於今年來說，由於客戶需求，收入將低於去年。
+：去年，收入占我們總收入的7%左右。今年大約在 6 到 7 之間。所以這應該讓您了解整體包裝。
+：Jen-Chau Huang - VP & CFO
+：是的，邁赫迪，這是一個合理的觀點。
+：Jen-Chau Huang - VP & CFO
+：Mehdi，我不會和你分享高峰，高峰在哪裡。但我可以從我目前的 5 年展望中告訴你，我們正在尋找大約 30 多歲的資本密集度百分比。
+：Jen-Chau Huang - VP & CFO
+：好的，查爾斯。去年底在建的400億資產主要來自2個節點，一個N3節點和N5節點。 N3 節點，那是因為我們正在增加 N3 節點。而 N5，我們繼續增加我們的容量。
+：因此，這兩個加在一起，你會看到去年年底在建的一個更大的資產。據我所見，這個數字將在未來幾年逐漸下降。
+：Jen-Chau Huang - VP & CFO
+：查爾斯，正如我們所說，現在談論明年還為時過早。但我們也表示，如果我們繼續看到那裡未來的增長機會，我們將繼續投資。
+：Jen-Chau Huang - VP & CFO
+：查爾斯，正如我所說，我們正在處理申請，因此我們無法透露任何細節。我現在不會分享更多信息。

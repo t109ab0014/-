@@ -1,0 +1,122 @@
+：Jen-Chau Huang - VP & CFO
+：Thank you, Jeff. Happy New Year, everyone. Thank you for joining us today. My presentation will start with financial highlights for the fourth quarter and a recap of full year 2022. After that, I will provide the guidance for the first quarter 2023. First quarter revenue decreased 1.5% sequentially in U.S. dollar terms as our business was dampened by the end market demand softness and customers' inventory adjustment despite the continued ramp-up of our industry-leading 5-nanometer technologies. It is at the low end of our previous guidance.
+：In NT dollar terms, revenue increased 2% in the fourth quarter due to a more favorable foreign exchange rate. Gross margin increased 1.8 percentage points sequentially to 62.2% mainly due to a more favorable foreign exchange rate and cost improvement efforts, partially offset by lower capacity utilization.
+：Total operating expenses accounted for 10.3% of net revenue. Operating margin was 52%, up 1.4 percentage points from the previous quarter. Overall, our fourth quarter EPS was TWD 11.41 and ROE was 41.7%.
+：Now let's move on to the revenue by technology. 5-nanometer process technology contributed 32% of wafer revenue in the fourth quarter while 7-nanometer accounted for 22%. Advanced Technologies defined as 7-nanometer and below, accounted for 54% of wafer revenue.
+：On a full year basis, 5-nanometer technology contributed 26% of 2022 wafer revenue. 7-nanometer was 27%. Advanced Technologies accounted for 53% of total wafer revenue, up from 50% in 2021.
+：Moving on to revenue contribution by platform. HPC increased 10% quarter-over-quarter to account for 42% of our fourth quarter revenue. Smartphone decreased 4% to account for 38%, IoT decreased 11% to account for 8% and Automotive increased 10% to account for 6% and DCE decreased 23% to account for 2%.
+：On a full year basis, all 6 platforms had year-on-year growth. HPC increased 59% year-on-year to account for 41% of our 2022 revenue. Smartphone increased 28% to account for 39%, IoT increased 47% to account for 9%, automotive increased 74% to account for 5%, and DCE increased 1% to account for 3%.
+：Moving on to the balance sheet, we ended the fourth quarter with cash and marketable securities of TWD 1.56 trillion or USD 51 billion. On the liability side, current liabilities increased by TWD 137 billion, mainly due to the increase of TWD 48 billion in accounts payable, an increase of TWD 93 billion in accrued liabilities and others.
+：On financial ratios, accounts receivable turnover days remain at 36 days while days of inventory increased 3 days to 93 days.
+：Regarding cash flow and CapEx, during the fourth quarter, we generated about TWD 487 billion in cash from operations, spent TWD 337 billion in CapEx and distributed TWD 71 billion for first quarter 2022 cash dividend.
+：Overall, our cash balance increased TWD 47 billion to TWD 1.34 trillion at the end of the quarter.
+：In U.S. dollar terms, our fourth quarter capital expenditures totaled $10.82 billion.
+：To recap our performance in 2022. We had a strong growth in 2022 as our technology leadership position enabled us to capture the industry's megatrends of 5G and HPC. Our revenue increased 33.5% in U.S. dollar terms to reach $76 billion and 42.6% in NT terms to reach TWD 2.26 trillion. Gross margin increased 8 percentage points to 59.6%, mainly reflecting a more favorable foreign exchange rate, value-selling efforts and cost improvement, partially offset by lower capacity utilization. Thanks to better operating leverage, operating margin increased 8.6 percentage points to 49.5%.
+：Overall, full year EPS increased 70.4% to TWD 39.2 and ROE was 39.8%.
+：On cash flow, we spent USD 36.3 billion or TWD 1.1 trillion in CapEx. We generated TWD 1.6 trillion in operating cash flow and TWD 528 billion in free cash flow. We also paid TWD 285 billion in cash dividends in 2022, up from TWD 266 billion in 2021. I have finished my financial summary.
+：Now let's turn to our current quarter guidance. As overall macroeconomic conditions remain weak, we expect our business to be further impacted by continued end market demand softness and customers' further inventory adjustment.
+：Based on the current business outlook, we expect our first quarter revenue to be between USD 16.7 billion and USD 17.5 billion, representing a 14.2% sequential decline at the midpoint.
+：Based on the exchange rate assumption of USD 1 to TWD 30.7, gross margin is expected to be between 53.5% and 55.5%, operating margin between 41.5% and 43.5%.
+：Starting in 2023, certain tax exemptions from the Taiwan government have expired. However, the government has recently passed the amendments to the statute for industrial innovations. All things considered, we expect our effective tax rate in 2023 and beyond to be approximately 15%. This concludes my financial presentation.
+：Now let me turn to our key messages. I will start by making some comments on our fourth quarter '22 and first quarter '23 profitability. Compared to third quarter, our fourth quarter gross margin increased by 180 basis points sequentially to 62.2%, of which 140 basis points was contributed by a more favorable foreign exchange rate. Meanwhile, cost improvement efforts also helped offset the impact from a lower capacity utilization.
+：Compared to our fourth quarter guidance, our actual gross margin exceeded the high end of the range provided 3 months ago, mainly due to cost improvement efforts.
+：We have just guided our first quarter gross margin to be 54.5% at the midpoint mainly due to a lower capacity utilization rate as customers further adjust their inventory levels and a less favorable foreign exchange rate.
+：In 2023, our gross margin faces challenges from lower capacity utilization due to semiconductor cyclicality, the ramp-up of N3, overseas fab expansion and inflationary cost.
+：In addition, R&D expenses accounted for 7.2% of our net revenue in 2022. In 2023, as we increase our focus on technology development and add more resources, we expect R&D expenses to increase by about 20% year-on-year and account for 8% to 8.5% of our net revenue.
+：To manage our profitability in 2023, we will work diligently on internal cost improvement efforts while continuing to strategically and consistently sell our value.
+：Excluding the impact of foreign exchange rate, we continue to forecast a long-term gross margin of 53% and higher is achievable.
+：Next, let me talk about our 2023 capital budget and depreciation. Every year, our CapEx is spent in anticipation of the growth that will follow in future years. As I have stated before, given the near-term uncertainties, we continue to manage our business prudently and tighten up our capital spending where appropriate. That said, our commitment to support customers' structural growth remains unchanged, and our disciplined CapEx and capacity planning remains based on the long-term market demand profile.
+：In 2022, we spent $36.3 billion to capture the structural demand and support our customers' growth. In 2023, our capital budget is expected to be between USD 32 billion and USD 36 billion. Out of the USD 32 billion to USD 36 billion CapEx for 2023, about 70% will be allocated for advanced process technologies. About 20% will be spent for specialty technologies and about 10% will be spent for advanced packaging, mask making and others.
+：Our depreciation expense is expected to increase by approximately 30% year-over-year in 2023 mainly as we ramp our 3-nanometer technologies.
+：With this level of CapEx spending in 2023, we reiterate that TSMC remains committed to a sustainable cash dividends on both an annual and quarterly basis. We will continue to work closely with our customers to plan our long-term capacity and invest in leading-edge and specialty technologies to support their growth while delivering profitable growth to our shareholders.
+：Now let me turn the microphone over to C.C.
+：Jen-Chau Huang - VP & CFO
+：Okay. Randy, this is Wendell. Let me share with you this. The Arizona fab. We make the decision based on customers' request. And so we're planning on building the 2 fabs, 1 and 5, actually N4 and the other one N3. We're not able to share with you a specific cost gap number between Taiwan and U.S., but we can share with you that the major reason for the cost gap is the construction cost of building and facilities, which can be 4 to 5x greater for U.S. fab versus a fab in Taiwan.
+：The high cost of construction includes labor cost, cost of permits, cost of occupational safety and health regulations, inflationary costs in recent years and people and learning curve costs. Therefore, the initial cost of overseas fabs are higher than our fabs in Taiwan.
+：Jen-Chau Huang - VP & CFO
+：Right. Randy, we're not able to disclose the specific CapEx per K for each node, but certainly, the CapEx is per K is more expensive for a new node as the process capacity increases. Okay?
+：Jen-Chau Huang - VP & CFO
+：Okay. Randy, for the first question, we're the technology leader, and we intend to continue to maintain the leadership. Therefore, we are devoting more and more resources in R&D, including people and other kind of resources. That's the reason why our R&D expense will increase in 2023 and probably beyond.
+：The other thing about tax, in 2023, part of the tax exemptions -- or incentives in Taiwan have expired. Without the new amendments to this industrial innovation, the statute of industrial innovation, our tax rate would have become between 18% to 19%. With this new amendment, our tax rates will drop to about 15%.
+：Jen-Chau Huang - VP & CFO
+：From what we are seeing at this moment, we expect the R&D to revenue ratio to be between 8% to 8.5% in the next several years.
+：Jen-Chau Huang - VP & CFO
+：Okay, Bruce, this is Wendell, we're not able to comment on pricing details, but our pricing is always strategic and consistent to reflect our value. Now value to our customers as C.C. said in his statement includes technology leadership, manufacturing efficiency and quality, cost, trust and recently also includes more geographic manufacturing flexibilities. Therefore, our overall pricing will remain strategic to reflect our value, which includes the value of geographic flexibilities. Does that answer your question?
+：Jen-Chau Huang - VP & CFO
+：Yes. Okay. Bruce, let me add that in C.C.'s statement, he also mentioned that we will -- aside from selling our value, we will continue to drive down our cost, but also to leverage our competitive advantages of large volume, economy of scale and manufacturing technology leadership. And with all these actions plus the government support, we are able to absorb the higher cost of overseas fabs and maintain our long-term financial goals, gross margin of 53% and higher.
+：Jen-Chau Huang - VP & CFO
+：Okay. Gokul, this is Wendell. As we said before, we invest the CapEx this year for the growth in the future years. So we also said earlier that we are tightening up the spending where appropriate. But as long as we believe the growth opportunity is there, we will continue to invest.
+：Now we've given the guidance for this year, so you can calculate the capital intensity. It will be over 40%. From what we are able to see at this moment, several years down the road, we're seeing the CapEx intensity to be between mid- to high 30s. That's the current view.
+：Jen-Chau Huang - VP & CFO
+：Yes. Something like that. Something like that.
+：Jen-Chau Huang - VP & CFO
+：Well, Rolf, we provide the breakdown of CapEx per year, advanced versus specialty technology, but we do not provide the breakdown between tools and constructions, but as I said, in the U.S., the construction of building and facilities is probably 5x that of Taiwan. And it lasts for a few years.
+：Jen-Chau Huang - VP & CFO
+：Okay. Rolf, this is Wendell. Again, in 2022, our Advanced Packaging grew at a similar rate to our corporate rate. So it accounted for about 7% of our total revenue in 2022. And we think that in this year, the growth will be also similar pretty -- well, slightly lower than the corporate, it will be probably flattish for the back end.
+：Jen-Chau Huang - VP & CFO
+：Right. Our fourth quarter gross margin is 180 basis points higher than that in the third quarter. Foreign exchange rate actually went towards our favor. The NT depreciated in the fourth quarter from TWD 32 in the third quarter to TWD 31, TWD 39, so that gave us about 140 basis points of gross margin expansion. Now the remaining one, there are cost improvement but offset by, as we said, lower wafer utilization.
+：Jen-Chau Huang - VP & CFO
+：Right. We give you the guidance, so you can really calculate yourself on the revenue growth on the second quarter. And it's too early to talk about the gross margin in the second quarter and beyond. However, we can tell you that we work very diligently to make sure our gross -- long-term gross margins of 53% and higher is achievable even in this year.
+：Jen-Chau Huang - VP & CFO
+：It's too early to talk about that. But as I said, we work very diligently to make sure this long-term gross margin target of 53% and above can be achievable, including this year.
+：Jen-Chau Huang - VP & CFO
+：謝謝你，傑夫。祝大家新年快樂。感謝您今天加入我們。我的演講將從第四季度的財務亮點和 2022 年全年的回顧開始。之後，我將提供 2023 年第一季度的指導。第一季度收入按美元計算環比下降 1.5%，因為我們的業務受到儘管我們行業領先的 5 納米技術持續提升，但終端市場需求疲軟和客戶庫存調整。它處於我們之前指導的低端。
+：以新台幣計算，由於更有利的匯率，第四季度收入增長了 2%。毛利率環比增長 1.8 個百分點至 62.2%，這主要是由於更有利的匯率和成本改善措施，部分被較低的產能利用率所抵消。
+：總運營費用占淨收入的10.3%。營業利潤率為 52%，較上一季度上升 1.4 個百分點。總體而言，我們第四季度的每股收益為 11.41 新台幣，淨資產收益率為 41.7%。
+：現在讓我們繼續討論技術收入。 5 納米工藝技術在第四季度貢獻了 32% 的晶圓收入，而 7 納米佔 22%。定義為 7 納米及以下的先進技術佔晶圓收入的 54%。
+：按全年計算，5 納米技術貢獻了 2022 年晶圓收入的 26%。 7 納米為 27%。先進技術佔晶圓總收入的 53%，高於 2021 年的 50%。
+：繼續討論平台的收入貢獻。 HPC 環比增長 10%，占我們第四季度收入的 42%。智能手機下降 4% 至 38%，IoT 下降 11% 至 8%，汽車增長 10% 至 6%，DCE 下降 23% 至 2%。
+：從全年來看，6 大平台均實現同比增長。 HPC 同比增長 59%，占我們 2022 年收入的 41%。智能手機增長28%，佔比39%，IoT增長47%，佔比9%，汽車增長74%，佔比5%，DCE增長1%，佔比3%。
+：轉到資產負債表，我們在第四季度結束時擁有 1.56 萬億新台幣或 510 億美元的現金和有價證券。負債方面，流動負債增加新台幣1,370億元，主要是應付賬款增加新台幣480億元，預提負債增加新台幣930億元及其他。
+：在財務比率方面，應收賬款周轉天數保持在 36 天，而存貨周轉天數增加 3 天至 93 天。
+：關於現金流和資本支出，在第四季度，我們從運營中產生了約 4870 億新台幣的現金，在資本支出上花費了 3370 億新台幣，並為 2022 年第一季度的現金股息分配了 710 億新台幣。
+：總體而言，本季度末我們的現金餘額增加了 470 億新台幣，達到 1.34 萬億新台幣。
+：以美元計算，我們第四季度的資本支出總額為 108.2 億美元。
+：回顧我們在 2022 年的表現。我們在 2022 年實現了強勁增長，因為我們的技術領先地位使我們能夠抓住行業 5G 和 HPC 的大趨勢。我們的收入以美元計算增長 33.5% 至 760 億美元，以新台幣計算增長 42.6% 至新台幣 2.26 萬億。毛利率增長 8 個百分點至 59.6%，主要反映更有利的匯率、價值銷售努力和成本改善，部分被較低的產能利用率所抵消。由於更好的經營槓桿，經營利潤率增加了 8.6 個百分點，達到 49.5%。
+：整體而言，全年每股盈利增長 70.4% 至新台幣 39.2 元，股本回報率為 39.8%。
+：在現金流方面，我們在資本支出上花費了 363 億美元或 1.1 萬億新台幣。我們產生了 1.6 萬億新台幣的經營現金流和 5280 億新台幣的自由現金流。我們還在 2022 年支付了 2850 億新台幣的現金股息，高於 2021 年的 2660 億新台幣。我已經完成了財務摘要。
+：現在讓我們轉向我們當前的季度指南。由於總體宏觀經濟狀況依然疲軟，我們預計我們的業務將進一步受到終端市場需求持續疲軟和客戶進一步庫存調整的影響。
+：根據當前的業務前景，我們預計第一季度收入將在 167 億美元至 175 億美元之間，中值環比下降 14.2%。
+：基於1美元兌30.7新台幣的匯率假設，預計毛利率在53.5%至55.5%之間，營業利潤率在41.5%至43.5%之間。
+：從 2023 年開始，台灣政府的某些免稅政策已經到期。然而，政府最近通過了對工業創新法規的修正案。綜合考慮，我們預計 2023 年及以後的有效稅率約為 15%。我的財務報告到此結束。
+：現在讓我談談我們的關鍵信息。首先，我將對我們 22 年第四季度和 23 年第一季度的盈利能力發表一些評論。與第三季度相比，我們第四季度的毛利率環比增長 180 個基點至 62.2%，其中 140 個基點得益於更有利的匯率。同時，成本改善措施也幫助抵消了較低產能利用率的影響。
+：與我們第四季度的指導相比，我們的實際毛利率超過了 3 個月前提供的範圍的高端，這主要是由於成本改善的努力。
+：我們剛剛將第一季度毛利率的中點指引為 54.5%，這主要是由於客戶進一步調整庫存水平和不利的匯率導致產能利用率較低。
+：2023年，我們的毛利率面臨半導體週期性導致的產能利用率下降、N3產能提升、海外晶圓廠擴張和成本通脹等挑戰。
+：此外，研發費用占我們2022年淨收入的7.2%。2023年，隨著我們加大對技術開發的關注並增加更多資源，我們預計研發費用同比增長約20%，佔我們淨收入的 8% 至 8.5%。
+：為了在 2023 年管理我們的盈利能力，我們將努力改善內部成本，同時繼續戰略性地、持續地銷售我們的價值。
+：剔除匯率影響，我們繼續預測長期毛利率可達到 53%或更高。
+：接下來，讓我談談我們2023年的資本預算和折舊。每年，我們的資本支出都用於預期未來幾年的增長。正如我之前所說，鑑於近期的不確定性，我們將繼續審慎地管理我們的業務，並在適當的時候收緊我們的資本支出。也就是說，我們支持客戶結構性增長的承諾保持不變，我們嚴格的資本支出和產能規劃仍然基於長期市場需求狀況。
+：2022 年，我們花費了 363 億美元來捕捉結構性需求並支持客戶的增長。 2023年，我們的資本預算預計在320億美元到360億美元之間。在 2023 年 320 億美元至 360 億美元的資本支出中，約 70% 將分配給先進工藝技術。約 20% 將用於專業技術，約 10% 將用於先進封裝、掩模製造等。
+：預計到 2023 年，我們的折舊費用將同比增長約 30%，這主要是因為我們推出了 3 納米技術。
+：鑑於 2023 年的資本支出水平如此，我們重申台積電仍致力於每年和每季度的可持續現金股息。我們將繼續與客戶密切合作，規劃我們的長期產能並投資於前沿和專業技術，以支持他們的發展，同時為我們的股東帶來盈利增長。
+：現在讓我把話筒交給 C.C.
+：Jen-Chau Huang - VP & CFO
+：好的。蘭迪，這是溫德爾。讓我和你分享這個。亞利桑那工廠。我們根據客戶的要求做出決定。因此，我們計劃建造 2 個晶圓廠，1 個和 5 個，實際上是 N4，另一個是 N3。我們無法與您分享台灣與美國之間具體的成本差距數字，但我們可以與您分享成本差距的主要原因是建築和設施的建設成本，它可以比美國高出 4 到 5 倍美國晶圓廠與台灣晶圓廠。
+：建築的高成本包括勞動力成本、許可證成本、職業安全和健康法規成本、近年來的通貨膨脹成本以及人員和學習曲線成本。因此，海外晶圓廠的初始成本高於我們在台灣的晶圓廠。
+：Jen-Chau Huang - VP & CFO
+：正確的。蘭迪，我們無法透露每個節點每 K 的具體資本支出，但可以肯定的是，隨著處理能力的增加，新節點的每 K 資本支出會更加昂貴。好的？
+：Jen-Chau Huang - VP & CFO
+：好的。蘭迪，對於第一個問題，我們是技術領先者，我們打算繼續保持領先地位。因此，我們在研發上投入越來越多的資源，包括人力和其他資源。這就是為什麼我們的研發費用將在 2023 年甚至更長時間內增加的原因。
+：關於稅收的另一件事是，到 2023 年，台灣的部分免稅或激勵措施已經到期。如果沒有新的產業創新法修正案，產業創新法，我們的稅率會變成18%到19%之間。通過這項新修正案，我們的稅率將降至 15% 左右。
+：Jen-Chau Huang - VP & CFO
+：從我們目前所看到的情況來看，我們預計未來幾年研發與收入的比率將在 8% 至 8.5% 之間。
+：Jen-Chau Huang - VP & CFO
+：好的，布魯斯，我是溫德爾，我們無法對定價細節發表評論，但我們的定價始終是戰略性的，並且始終如一地反映我們的價值。現在作為 C.C. 對我們的客戶有價值他在聲明中表示，包括技術領先、製造效率和質量、成本、信任以及最近還包括更多的地理製造靈活性。因此，我們的整體定價將保持戰略性，以反映我們的價值，其中包括地域靈活性的價值。這是否回答你的問題？
+：Jen-Chau Huang - VP & CFO
+：是的。好的。 Bruce，讓我補充一下，在 C.C. 的聲明中，他還提到我們將——除了出售我們的價值，我們將繼續降低成本，同時利用我們的大容量、規模經濟和製造技術領先。通過所有這些行動加上政府的支持，我們能夠吸收海外晶圓廠的更高成本並維持我們的長期財務目標，即 53% 或更高的毛利率。
+：Jen-Chau Huang - VP & CFO
+：好的。 Gokul，這是溫德爾。正如我們之前所說，我們今年投資資本支出是為了未來幾年的增長。所以我們之前也說過，我們正在適當地收緊開支。但只要我們相信增長機會存在，我們就會繼續投資。
+：現在我們已經給出了今年的指導，所以你可以計算資本密集度。將超過40%。從我們目前能夠看到的情況來看，幾年後，我們看到資本支出強度在 30 多歲到 30 多歲之間。這是目前的看法。
+：Jen-Chau Huang - VP & CFO
+：是的。像那樣的東西。像那樣的東西。
+：Jen-Chau Huang - VP & CFO
+：好吧，羅爾夫，我們提供每年資本支出的細目，先進技術與專業技術，但我們不提供工具和結構之間的細目分類，但正如我所說，在美國，建築和設施的建設可能是美國的 5 倍台灣。它會持續幾年。
+：Jen-Chau Huang - VP & CFO
+：好的。羅爾夫，這是溫德爾。同樣，在 2022 年，我們先進封裝的增長速度與我們的企業增長率相似。因此，它在 2022 年占我們總收入的 7% 左右。我們認為，今年的增長也將非常相似——好吧，略低於企業，後端可能會持平。
+：Jen-Chau Huang - VP & CFO
+：正確的。我們第四季度的毛利率比第三季度高出 180 個基點。外匯匯率實際上對我們有利。新台幣在第四季度從第三季度的 32 新台幣貶值到 31 新台幣、39 新台幣，這給了我們大約 140 個基點的毛利率擴張。現在剩下的一個，有成本改善，但正如我們所說，被較低的晶圓利用率所抵消。
+：Jen-Chau Huang - VP & CFO
+：正確的。我們為您提供指導，因此您可以真正計算出第二季度的收入增長情況。現在談論第二季度及以後的毛利率還為時過早。然而，我們可以告訴你，我們非常努力地工作，以確保即使在今年我們的毛利率也能達到 53% 甚至更高的長期毛利率。
+：Jen-Chau Huang - VP & CFO
+：現在談這個還為時過早。但正如我所說，我們非常努力地工作，以確保實現 53% 及以上的長期毛利率目標，包括今年。
